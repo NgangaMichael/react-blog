@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "JavaScript",
+      "author": "Mike",
+      "body": "The default web programming language",
+      "id": 4
+    },
+    {
+      "title": "Python",
+      "author": "Alex",
+      "body": "Good for machine learning and AI",
+      "id": 5
+    },
+    {
+      "title": "C#",
+      "author": "Mike",
+      "body": "Please dont learn this language haha",
+      "id": 6
+    }
+  ]
+}
